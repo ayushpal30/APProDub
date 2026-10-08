@@ -1,3 +1,4 @@
+
 # APProDub
 
 **One property video, dubbed into 11 Indian languages.**
@@ -40,20 +41,11 @@ no build step.
 
 ## Languages (12 available)
 
-| # | Language | Demo timestamp |
-|---|---|---|
-| 1 | Hindi *(original)* | 0:00 |
-| 2 | English | 0:14 |
-| 3 | Marathi | 0:27 |
-| 4 | Gujarati | 0:40 |
-| 5 | Tamil | 0:54 |
-| 6 | Telugu | 1:07 |
-| 7 | Punjabi | 1:21 |
-| 8 | Bengali | 1:34 |
-| 9 | Assamese | 1:48 |
-| 10 | Kannada | 2:01 |
-| 11 | Odia | 2:14 |
-| 12 | Malayalam | 2:28 |
+11 Indian languages + English:
+
+**Hindi · English · Tamil · Telugu · Marathi · Gujarati · Bengali · Kannada · Malayalam · Punjabi · Odia · Assamese**
+
+Your video is already in one language — that stays yours. We dub the other 11.
 
 ---
 
